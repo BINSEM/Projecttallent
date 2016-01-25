@@ -1,0 +1,23 @@
+header {
+	text-align: center;
+	background-image: url(image/mediterranean-346997_960_720.jpg);
+	background-attachment: scroll;
+	background-position: center center;
+	background-size: cover;
+	height:100%;
+}
+.intro-text {
+	color: #fff;
+}
+header i {
+	font-size: 4em;
+}
+.header {
+	font-size: 6em;
+}
+.header-entro {
+	font-size: 3em;
+}
+header button {
+	width: 250px;
+}
